@@ -3,7 +3,7 @@ Credit to: joshuchea/yo-mama, I just made it neater
 
 Fat:
 
-  "Yo mama is so fat that her bellybutton gets home 15 minutes before she does.",
+    "Yo mama is so fat that her bellybutton gets home 15 minutes before she does.",
     "Yo mama is so fat that when she was diagnosed with a flesh-eating disease, the doctor gave her ten years to live.",
     "Yo mama is so fat that the National Weather Service names each one of her farts.",
     "Yo mama is so fat that when she wears a yellow raincoat, people yell \"taxi!\"",
@@ -266,7 +266,7 @@ Fat:
     "Yo mama's so fat, the Doctor caught her eating his psychic paper, thinking it was a burger.",
     "Yo mama's so fat, it doesn't matter that the Tardis is bigger on the inside. She can't get through the door.",
     "Yo mama is so fat that Thanos had to snap his fingers twice to make her disappear."
-    
+
 Stupid:
 
     "Yo mama is so stupid that it took her 2 hours to watch 60 Minutes!",
