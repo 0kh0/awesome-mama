@@ -1,4 +1,4 @@
-# Your mom
+# ur mom
 Credit to: joshuchea/yo-mama, I just made it neater
 
 Fat:
